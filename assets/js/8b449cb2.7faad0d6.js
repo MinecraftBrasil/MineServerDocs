@@ -1,1 +1,0 @@
-(self.webpackChunkmine_brasil=self.webpackChunkmine_brasil||[]).push([[364],{758:function(e){"use strict";e.exports=JSON.parse('{"permalink":"https://github.com/MinecraftBrasil/MineServerDocs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

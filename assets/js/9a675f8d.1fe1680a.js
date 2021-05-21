@@ -1,0 +1,1 @@
+(self.webpackChunkmine_brasil=self.webpackChunkmine_brasil||[]).push([[861],{9007:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/MineServerDocs/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/MineServerDocs/blog/tags/hello"}')}}]);

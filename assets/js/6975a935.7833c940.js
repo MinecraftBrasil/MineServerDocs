@@ -1,1 +1,0 @@
-(self.webpackChunkmine_brasil=self.webpackChunkmine_brasil||[]).push([[241],{4787:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"https://github.com/MinecraftBrasil/MineServerDocs/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"https://github.com/MinecraftBrasil/MineServerDocs/blog/tags/facebook"}')}}]);

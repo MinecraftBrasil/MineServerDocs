@@ -1,1 +1,0 @@
-(self.webpackChunkmine_brasil=self.webpackChunkmine_brasil||[]).push([[585],{1348:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"https://github.com/MinecraftBrasil/MineServerDocs/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"https://github.com/MinecraftBrasil/MineServerDocs/blog/tags/docusaurus"}')}}]);

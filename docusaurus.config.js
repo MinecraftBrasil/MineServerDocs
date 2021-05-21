@@ -1,5 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
+  themes: ["@docusaurus/theme-live-codeblock"],
+  plugins: [],
   title: "GGames Craft Documentação",
   tagline: "Dinosaurs are cool",
   url: "https://minecraftbrasil.github.io/MineServerDocs/",
@@ -9,16 +11,7 @@ module.exports = {
   favicon: "img/favicon.ico",
   organizationName: "MinecraftBrasil", // Usually your GitHub org/user name.
   projectName: "MineServerDocs", // Usually your repo name.
-  themes: ["@docusaurus/theme-live-codeblock"],
-  plugins: [],
   themeConfig: {
-    liveCodeBlock: {
-      /**
-       * The position of the live playground, above or under the editor
-       * Possible values: "top" | "bottom"
-       */
-      playgroundPosition: "bottom",
-    },
     navbar: {
       title: "GGames Craft Documentação",
       logo: {

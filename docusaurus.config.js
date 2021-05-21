@@ -10,11 +10,7 @@ module.exports = {
   organizationName: "MinecraftBrasil", // Usually your GitHub org/user name.
   projectName: "MineServerDocs", // Usually your repo name.
   themes: ["@docusaurus/theme-bootstrap"],
-  plugins: [
-    "@docusaurus/plugin-content-blog",
-    "@docusaurus/plugin-content-pages",
-    "@docusaurus/theme-live-codeblock",
-  ],
+  plugins: ["@docusaurus/theme-live-codeblock"],
   themeConfig: {
     liveCodeBlock: {
       /**

@@ -3,7 +3,7 @@ module.exports = {
   title: "GGames Craft Documentação",
   tagline: "Dinosaurs are cool",
   url: "https://minecraftbrasil.github.io/MineServerDocs/",
-  baseUrl: "https://github.com/MinecraftBrasil/MineServerDocs/",
+  baseUrl: "/MineServerDocs/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",

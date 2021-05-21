@@ -9,8 +9,8 @@ module.exports = {
   favicon: "img/favicon.ico",
   organizationName: "MinecraftBrasil", // Usually your GitHub org/user name.
   projectName: "MineServerDocs", // Usually your repo name.
-  themes: ["@docusaurus/theme-bootstrap"],
-  plugins: ["@docusaurus/theme-live-codeblock"],
+  themes: ["@docusaurus/theme-live-codeblock"],
+  plugins: [],
   themeConfig: {
     liveCodeBlock: {
       /**

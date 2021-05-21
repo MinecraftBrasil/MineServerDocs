@@ -9,7 +9,20 @@ module.exports = {
   favicon: "img/favicon.ico",
   organizationName: "MinecraftBrasil", // Usually your GitHub org/user name.
   projectName: "MineServerDocs", // Usually your repo name.
+  themes: ["@docusaurus/theme-classic"],
+  plugins: [
+    "@docusaurus/plugin-content-blog",
+    "@docusaurus/plugin-content-pages",
+    "@docusaurus/theme-live-codeblock",
+  ],
   themeConfig: {
+    liveCodeBlock: {
+      /**
+       * The position of the live playground, above or under the editor
+       * Possible values: "top" | "bottom"
+       */
+      playgroundPosition: "bottom",
+    },
     navbar: {
       title: "GGames Craft Documentação",
       logo: {

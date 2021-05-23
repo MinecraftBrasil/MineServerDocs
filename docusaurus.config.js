@@ -1,9 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  themes: ["@docusaurus/theme-live-codeblock"],
-  plugins: [],
-  title: "GGames Craft Documentação",
-  tagline: "Dinosaurs are cool",
+  title: "GGames Craft",
+  tagline: "Documentação do nosso servidor de Minecraft",
   url: "https://minecraftbrasil.github.io/MineServerDocs/",
   baseUrl: "/MineServerDocs/",
   onBrokenLinks: "throw",
@@ -13,9 +11,9 @@ module.exports = {
   projectName: "MineServerDocs", // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: "GGames Craft Documentação",
+      title: "GGames Craft",
       logo: {
-        alt: "GGames Craft Documentação Logo",
+        alt: "GGames Craft",
         src: "img/logo.svg",
       },
       items: [
@@ -46,24 +44,16 @@ module.exports = {
           ],
         },
         {
-          title: "Community",
+          title: "Comunidade",
           items: [
             {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
-            },
-            {
               label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
-            },
-            {
-              label: "Twitter",
-              href: "https://twitter.com/docusaurus",
+              href: "https://discord.gg/WPFHwJVVzJ",
             },
           ],
         },
         {
-          title: "More",
+          title: "Mais",
           items: [
             {
               label: "Blog",
@@ -76,7 +66,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} MineBrasil, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} GGames Craft.`,
     },
   },
   presets: [
